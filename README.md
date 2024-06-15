@@ -11,7 +11,7 @@ The project is implemented in Python using libraries such as scikit-learn, panda
 ## Dataset
 The Iris dataset is used for this project. 
 It contains 150 samples of Iris flowers, with 50 samples from each of the three species. 
-### 8. Model
+### Model
 The project uses the K-Nearest Neighbors (KNN) algorithm to classify the Iris species. 
 The optimal number of neighbors (k) is determined using cross-validation.
 The dataset is available from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Iris).
